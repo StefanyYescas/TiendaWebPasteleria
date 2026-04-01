@@ -13,4 +13,8 @@ El proyecto integra un **frontend interactivo**, un **backend funcional** y **sc
 - **Base de datos:** MySQL / Scripts SQL  
 - **Control de versiones:** Git / GitHub  
 
-
+## Estructura del proyecto
+TiendaWebPasteleria/
+ ├─ tiendaweb-frontend/
+ ├─ tiendaweb-backend/
+ └─ sql-scripts/
