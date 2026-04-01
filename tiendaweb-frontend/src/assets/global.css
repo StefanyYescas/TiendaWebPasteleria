@@ -1,0 +1,30 @@
+/* Elimina márgenes y padding en TODOS los elementos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+  }
+  
+  /* Reset específico para body y html */
+  html, body {
+  
+    font-size: 19px;
+    line-height: 1.1;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100%;
+    min-height: 100vh;
+    user-select: none;
+    
+  }
+  /* styles.css o main.css */
+.logotipo,
+.logotipo svg,
+.logotipo img {
+  width: 80px !important;
+  height: 60px !important;
+  min-width: 130px !important;
+  min-height: 130px !important;
+}

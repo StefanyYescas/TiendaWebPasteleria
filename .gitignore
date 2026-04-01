@@ -1,0 +1,13 @@
+# Node.js (frontend y backend)
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
+
+# SQL
+*.bak
+
+# VS Code y archivos locales
+.vscode/
